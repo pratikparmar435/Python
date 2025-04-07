@@ -188,5 +188,5 @@
 #             # Add a new character with count 1 if it doesn't match the last character
 #             stack.append([char, 1])
 #     print(stack)
-# string = "aaabaaa"
+string = "aaabaaa"
 # remove_consecutive_chars(string)
